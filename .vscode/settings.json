@@ -1,0 +1,6 @@
+{
+    "git.postCommitCommand": "push",
+    "git.fetchOnPull": true,
+    "git.autofetch": true,
+    "git.allowForcePush": true
+}
